@@ -1,0 +1,1 @@
+{"mappings":"","sources":["index.4f4af2a9.css","src/styles/variable.scss"],"sourcesContent":["\n\n/*# sourceMappingURL=index.4f4af2a9.css.map */\n","$width: 100px;\n$gap: 1px;\n$days: (\n  mon: 0,\n  tue: 1,\n  wed: 2,\n  thu: 3,\n  fri: 4,\n  sat: 5,\n  sun: 6,\n);\n"],"names":[],"version":3,"file":"index.4f4af2a9.css.map"}
